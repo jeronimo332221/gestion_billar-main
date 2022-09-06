@@ -3,9 +3,7 @@
 require_once __DIR__ . '/../includes/app.php';
 
 use Controllers\ArticuloController;
-use Controllers\CitaController;
 use Controllers\LoginController;
-use Controllers\ServicioController;
 use Controllers\ClienteController;
 use Controllers\mesaController;
 use MVC\Router;
